@@ -1,4 +1,4 @@
-# PromptEngineering
+# PromptEngineering Techniques that I have gathered reading papers
 
 Here are my notes which I have gathered meanwhile I have done courses and these are the prompts which I have used mainly:
 
