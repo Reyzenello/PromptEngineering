@@ -1,6 +1,6 @@
 # Prompt Engineering Framework 
 
-Here are my notes which I have gathered meanwhile I have done courses and these are the prompts which I have used mainly:
+Here are my notes which I have gathered meanwhile I have done courses and these are the prompts which I have used mainly (at the end of the file I put also the implementation paper with the reference):
 - Zero-shot Prompting
 - Role Prompting
 - Providing New Information in the Prompt
