@@ -1,4 +1,4 @@
-# PromptEngineering 
+# Prompt Engineering Framework 
 
 Here are my notes which I have gathered meanwhile I have done courses and these are the prompts which I have used mainly:
 - Zero-shot Prompting
@@ -385,3 +385,9 @@ Describe me what is a table, use filler words like "um" to make it sounds realis
 
 - Prompt Engingeering - VoT (Visualization of Thought) - https://arxiv.org/pdf/2404.03622
  Visualize the state after each resoning step
+
+- Re:read the question - https://arxiv.org/abs/2309.06275
+
+![image](https://github.com/user-attachments/assets/a1276dd1-b782-453e-b22c-ec8008a3e02a)
+
+- you can also check the implementation of the Iterative Thought Refiner if you want to enhance a bit better the output - https://github.com/Reyzenello/Iterative-Thought-Refiner
